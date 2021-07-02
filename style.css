@@ -1,0 +1,22 @@
+*{margin: 0%;
+padding: 0;}
+
+
+
+
+
+.h1{
+
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+text-decoration: none;
+color: orange;
+background-color: #37373d;
+height: 30;
+width: 35;
+margin: 39;
+padding-top: 20ch;
+padding-bottom: 20ch;
+font-size: 5ch;
+
+}
